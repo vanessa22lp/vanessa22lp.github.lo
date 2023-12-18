@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{ /*0001*/
+    color: red;
+}
+
+.titulo{ /*0010*/
+    color:aqua;
+}
+
+#principal{
+    color: green;
+}
+
+h1{
+    color: purple !important;
+}
+
+li{
+    margin: 10px 20px 30px 50px;
+}
+
+.parrafo{
+    border: solid 0.5rem red; 
+    padding: 40px;
+}

@@ -1,0 +1,30 @@
+@media (max-width: 1068px) {
+    h2{
+        color: aqua;
+    }
+}
+
+/*@media (max-width: 480px)
+{
+    video{
+        display: none;
+    }
+}*/
+@media (max-width: 1024px) {
+    h2{
+        color: green;
+    }
+}
+
+@media (max-width: 768px) {
+    h2{
+        color: blue;
+    }
+}
+
+@media (max-width: 320px) {
+    h2{
+        color: yellow;
+    }
+}
+

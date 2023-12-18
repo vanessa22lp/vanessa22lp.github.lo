@@ -1,0 +1,56 @@
+div p{
+    border: solid 0.5px blue;
+    width: 300px;
+}
+/*
+.contenedor{
+    position: static;
+}*/
+.menu{
+    width: 1000px;
+    position: sticky;
+    top: 0;
+    /z-index: ;/
+}
+
+.menu .p-1{
+    width: 900px;
+}
+
+.p-1{
+    background-color: yellow;
+    /position: static;/
+}
+
+.p-2{
+    background-color: gray;
+    /*position: relative;
+    left: 500px;
+    top: 500px;*/
+}
+
+.p-3{
+    background-color: green;
+    /*position: absolute;
+    bottom: 300px;
+    left: 1000px;*/
+}
+
+.p-4{
+    background-color: aqua;
+    /*position: fixed;
+    top: 50%;
+    left: 100px;*/
+}
+
+.p-5{
+    background-color:orange;
+}
+
+.p-6{
+    background-color: aliceblue;
+}
+
+.p-7{
+    background-color: plum;
+}
